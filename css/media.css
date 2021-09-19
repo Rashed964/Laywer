@@ -1,0 +1,72 @@
+@media (min-width: 769px) and (max-width: 1024px){
+    .what_we_do {
+        background-size: 1255px !important;
+    }
+    .designation {
+        left: 13%;}
+    .designation h2{
+            font-size: 18px;
+    }
+}
+@media (min-width: 576px) and (max-width: 768px){
+    .banner h1 {
+        font-size: 48px !important;
+    }
+    .designation {
+        left: 15%;}
+    .designation h2{
+            font-size: 18px;
+    }
+    .language h2 {
+        font-size: 16px !important;
+    }
+    .language p {
+        font-size: 12px !important; 
+    }
+    .social_icon i {
+        padding: 9px !important;
+    }
+    .social_icon {
+        padding: 14px !important;
+        margin-top: 10px;
+    }
+}
+@media (min-width: 0px) and (max-width: 575px){
+    .text-end {
+        text-align: center !important;
+    }
+    .our_attorneys {
+        padding: 23px 0 !important;
+    }
+    .what_we_do {
+        background-size: 3828px !important;
+    }
+    .image {
+        margin-top: 20px;
+    }
+    .bottom {
+        text-align: center !important;
+    }
+}
+@media (min-width: 0px) and (max-width: 425px){
+    .what_we_do {
+        background-size: 2805px !important;
+    }
+    .image {
+        margin-bottom: 10px;
+    }
+}
+@media (min-width: 0px) and (max-width: 375px){
+    .what_we_do {
+        background-size: 2503px !important;
+    }
+}
+
+@media (min-width: 0px) and (max-width: 320px){
+    .banner h1 {
+        font-size: 54px !important;
+    }
+    .what_we_do {
+        background-size: 2150px !important;
+    }
+}
